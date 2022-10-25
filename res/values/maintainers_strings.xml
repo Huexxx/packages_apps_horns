@@ -26,4 +26,7 @@
   <string name="device_a20" translatable="false">Galaxy A20</string>
   <string name="device_a20_maintainer" translatable="false">FPSensor</string>
   <string name="device_a20_summary" translatable="false">a20\nFPSensor</string>
+  <string name="device_chiron" translatable="false">Xiaomi Mi Mix 2</string>
+  <string name="device_chiron_summary" translatable="false">Chiron\nHuexxx</string>
+  <string name="device_chiron_maintainer" translatable="false">Huexxx</string>
 </resources>
