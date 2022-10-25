@@ -13,6 +13,7 @@
     <Preference android:id="@+id/device_violet" android:icon="@drawable/stag_device" android:summary="@string/device_violet_summary" android:title="@string/device_violet"/>
     <Preference android:id="@+id/device_alioth" android:icon="@drawable/stag_device" android:summary="@string/device_alioth_summary" android:title="@string/device_alioth"/>
     <Preference android:id="@+id/device_lavender" android:icon="@drawable/stag_device" android:summary="@string/device_lavender_summary" android:title="@string/device_lavender"/>
+    <Preference android:id="@+id/device_chiron" android:icon="@drawable/stag_device" android:summary="@string/device_chiron_summary" android:title="@string/device_chiron"/>
   </PreferenceCategory>
   <PreferenceCategory android:id="@+id/device_category_google" android:title="@string/device_category_google_title">
     <Preference android:id="@+id/device_panther" android:icon="@drawable/stag_device" android:summary="@string/device_panther_summary" android:title="@string/device_panther"/>

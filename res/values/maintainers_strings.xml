@@ -39,4 +39,7 @@
   <string name="device_lavender" translatable="false">Redmi Note 7</string>
   <string name="device_lavender_maintainer" translatable="false">FPSensor</string>
   <string name="device_lavender_summary" translatable="false">lavender\nFPSensor</string>
+  <string name="device_chiron" translatable="false">Xiaomi Mi Mix 2</string>
+  <string name="device_chiron_summary" translatable="false">Chiron\nHuexxx</string>
+  <string name="device_chiron_maintainer" translatable="false">Huexxx</string>
 </resources>
