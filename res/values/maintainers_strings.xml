@@ -22,7 +22,8 @@
     <!-- Device Categories -->
     <string name="device_category_generic_title" translatable="false">Generic</string>
     <string name="device_category_oneplus_title" translatable="false">OnePlus</string>
-
+    <string name="device_category_xiaomi_title" translatable="false">Xiaomi</string>
+    
     <!-- Devices & Maintainers -->
 
     <!-- OnePlus 9 (lemonadep) -->
@@ -34,5 +35,10 @@
     <string name="device_lemonadep" translatable="false">OnePlus 9 Pro</string>
     <string name="device_lemonadep_summary" translatable="false">lemonadep\nvjspranav</string>
     <string name="device_lemonadep_maintainer" translatable="false">vjspranav</string>
+
+    <!-- Xiaomi Mi Mix 2(Chiron) -->
+    <string name="device_chiron" translatable="false">Xiaomi Mi Mix 2</string>
+    <string name="device_chiron_summary" translatable="false">Chiron\nHuexxx</string>
+    <string name="device_chiron_maintainer" translatable="false">Huexxx</string>
 
 </resources>
